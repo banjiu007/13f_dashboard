@@ -1,0 +1,19 @@
+quarter,institution,stock,sector,market_value,share_count,holding_pct
+2023Q3,BlackRock,AAPL,Technology,150000000,850000,0.15
+2023Q3,BlackRock,MSFT,Technology,120000000,400000,0.12
+2023Q3,BlackRock,AMZN,Consumer Discretionary,100000000,800000,0.10
+2023Q3,Vanguard,AAPL,Technology,180000000,1000000,0.18
+2023Q3,Vanguard,GOOGL,Technology,90000000,700000,0.09
+2023Q3,Vanguard,JPM,Financials,85000000,600000,0.085
+2023Q2,BlackRock,AAPL,Technology,140000000,800000,0.14
+2023Q2,BlackRock,MSFT,Technology,110000000,380000,0.11
+2023Q2,Vanguard,AAPL,Technology,170000000,950000,0.17
+2023Q2,Vanguard,AMZN,Consumer Discretionary,95000000,750000,0.095
+2023Q2,Fidelity,GOOGL,Technology,88000000,680000,0.088
+2023Q2,Fidelity,META,Technology,82000000,300000,0.082
+2023Q1,BlackRock,AAPL,Technology,130000000,750000,0.13
+2023Q1,BlackRock,TSLA,Consumer Discretionary,95000000,400000,0.095
+2023Q1,Vanguard,MSFT,Technology,160000000,900000,0.16
+2023Q1,Vanguard,NVDA,Technology,75000000,200000,0.075
+2023Q1,Fidelity,AMZN,Consumer Discretionary,70000000,600000,0.07
+2023Q1,Fidelity,BRK.B,Financials,68000000,200000,0.068
